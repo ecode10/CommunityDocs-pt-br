@@ -1,5 +1,7 @@
 #Comentando Código Fonte
 
+![codigo fonte](img/img-1.jpg)
+
 Olá pessoal, hoje eu vou falar de um conceito que está confundindo a mente de alguns desenvolvedores e acabando com as boas práticas no desenvolvimento de *software*. É um assunto polêmico, mas com a minha experiência e visão do que está acontecendo hoje, precisei escrever um pouco sobre.
 
 **Utilizado:**
